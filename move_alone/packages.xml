@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>move_alone</name>
+  <version>0.6.2</version>
+  <description>Generic move alone for twist robots.</description>
+
+  <maintainer email="ayedchames@gmail.com">Haj AYED</maintainer>
+
+  <license>BSD</license>
+
+  <author>Haj AYED Chames</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>rospy</run_depend>
+</package>
