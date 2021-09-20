@@ -1,5 +1,0 @@
-<!-- launch rviz with a saved config file -->
-<launch>
-    <node name="rviz" pkg="rviz" type="rviz"
-          args="-d $(find hepta_robot)/../rvizConfig/default.rviz"/>
-</launch>
